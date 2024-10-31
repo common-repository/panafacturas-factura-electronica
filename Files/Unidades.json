@@ -1,0 +1,1402 @@
+[
+  {
+    "IdMedida": 1,
+    "IdSistema": 1,
+    "IdUnidadMedida": 1,
+    "Nombre": "µm",
+    "Simbolo": "um",
+    "Comentario": "Micrómetro: 10-6 m"
+  },
+  {
+    "IdMedida": 1,
+    "IdSistema": 1,
+    "IdUnidadMedida": 2,
+    "Nombre": "mm",
+    "Simbolo": "mm",
+    "Comentario": "Milímetro: 10-3 m"
+  },
+  {
+    "IdMedida": 1,
+    "IdSistema": 1,
+    "IdUnidadMedida": 3,
+    "Nombre": "cm",
+    "Simbolo": "cm",
+    "Comentario": "Centímetro: 10-2 m"
+  },
+  {
+    "IdMedida": 1,
+    "IdSistema": 1,
+    "IdUnidadMedida": 4,
+    "Nombre": "dm",
+    "Simbolo": "dm",
+    "Comentario": "Decímetro: 10-1 m"
+  },
+  {
+    "IdMedida": 1,
+    "IdSistema": 1,
+    "IdUnidadMedida": 5,
+    "Nombre": "m",
+    "Simbolo": "m",
+    "Comentario": "Metro"
+  },
+  {
+    "IdMedida": 1,
+    "IdSistema": 1,
+    "IdUnidadMedida": 6,
+    "Nombre": "dam",
+    "Simbolo": "dam",
+    "Comentario": "Decámetro: 10 m"
+  },
+  {
+    "IdMedida": 1,
+    "IdSistema": 1,
+    "IdUnidadMedida": 7,
+    "Nombre": "hm",
+    "Simbolo": "hm",
+    "Comentario": "Hectómetro: 100 m"
+  },
+  {
+    "IdMedida": 1,
+    "IdSistema": 1,
+    "IdUnidadMedida": 8,
+    "Nombre": "km",
+    "Simbolo": "km",
+    "Comentario": "Kilómetro: 1000 m"
+  },
+  {
+    "IdMedida": 1,
+    "IdSistema": 1,
+    "IdUnidadMedida": 9,
+    "Nombre": "mi",
+    "Simbolo": "mi",
+    "Comentario": "Milla internacional: 1609.3 m"
+  },
+  {
+    "IdMedida": 1,
+    "IdSistema": 1,
+    "IdUnidadMedida": 10,
+    "Nombre": "nmi",
+    "Simbolo": "nmi",
+    "Comentario": "Milla náutica: 1.852 m"
+  },
+  {
+    "IdMedida": 1,
+    "IdSistema": 2,
+    "IdUnidadMedida": 1,
+    "Nombre": "in",
+    "Simbolo": "in",
+    "Comentario": "Pulgada: 2.54 cm"
+  },
+  {
+    "IdMedida": 1,
+    "IdSistema": 2,
+    "IdUnidadMedida": 2,
+    "Nombre": "ft",
+    "Simbolo": "ft",
+    "Comentario": "Pie: 12 in, o 30.48 cm"
+  },
+  {
+    "IdMedida": 1,
+    "IdSistema": 2,
+    "IdUnidadMedida": 3,
+    "Nombre": "yd",
+    "Simbolo": "yd",
+    "Comentario": "Yarda: 3 ft, o 91.44cm"
+  },
+  {
+    "IdMedida": 2,
+    "IdSistema": 1,
+    "IdUnidadMedida": 1,
+    "Nombre": "mm²",
+    "Simbolo": "mm2",
+    "Comentario": "Milímetro cuadrado"
+  },
+  {
+    "IdMedida": 2,
+    "IdSistema": 1,
+    "IdUnidadMedida": 2,
+    "Nombre": "cm²",
+    "Simbolo": "cm2",
+    "Comentario": "Centímetro cuadrado"
+  },
+  {
+    "IdMedida": 2,
+    "IdSistema": 1,
+    "IdUnidadMedida": 3,
+    "Nombre": "dm²",
+    "Simbolo": "dm2",
+    "Comentario": "Decímetro cuadrado"
+  },
+  {
+    "IdMedida": 2,
+    "IdSistema": 1,
+    "IdUnidadMedida": 4,
+    "Nombre": "m²",
+    "Simbolo": "m2",
+    "Comentario": "Metro cuadrado"
+  },
+  {
+    "IdMedida": 2,
+    "IdSistema": 1,
+    "IdUnidadMedida": 5,
+    "Nombre": "ha",
+    "Simbolo": "ha",
+    "Comentario": "Hectárea: 1000 m2 | Sinónimo: hectómetro cuadrado"
+  },
+  {
+    "IdMedida": 2,
+    "IdSistema": 1,
+    "IdUnidadMedida": 6,
+    "Nombre": "km²",
+    "Simbolo": "km2",
+    "Comentario": "Kilómetro cuadrado"
+  },
+  {
+    "IdMedida": 2,
+    "IdSistema": 1,
+    "IdUnidadMedida": 7,
+    "Nombre": "acre",
+    "Simbolo": "acre",
+    "Comentario": "Acre: 4046.87260987 m2"
+  },
+  {
+    "IdMedida": 2,
+    "IdSistema": 1,
+    "IdUnidadMedida": 8,
+    "Nombre": "mi²",
+    "Simbolo": "mi2",
+    "Comentario": "Milla cuadrada"
+  },
+  {
+    "IdMedida": 2,
+    "IdSistema": 1,
+    "IdUnidadMedida": 9,
+    "Nombre": "Ping",
+    "Simbolo": "Ping",
+    "Comentario": "Unidad de área equivalente a 3.3 metros cuadrados."
+  },
+  {
+    "IdMedida": 2,
+    "IdSistema": 3,
+    "IdUnidadMedida": 1,
+    "Nombre": "in²",
+    "Simbolo": "in2",
+    "Comentario": "Pulgada cuadrada"
+  },
+  {
+    "IdMedida": 2,
+    "IdSistema": 3,
+    "IdUnidadMedida": 2,
+    "Nombre": "ft²",
+    "Simbolo": "Ft2",
+    "Comentario": "Pie cuadrado"
+  },
+  {
+    "IdMedida": 2,
+    "IdSistema": 3,
+    "IdUnidadMedida": 3,
+    "Nombre": "yd²",
+    "Simbolo": "yd2",
+    "Comentario": "Yarda cuadrada"
+  },
+  {
+    "IdMedida": 2,
+    "IdSistema": 3,
+    "IdUnidadMedida": 4,
+    "Nombre": "µl",
+    "Simbolo": "ul",
+    "Comentario": "Microlitro: 10-6 l"
+  },
+  {
+    "IdMedida": 2,
+    "IdSistema": 3,
+    "IdUnidadMedida": 5,
+    "Nombre": "ml",
+    "Simbolo": "ml",
+    "Comentario": "Mililitro: 10-3 l"
+  },
+  {
+    "IdMedida": 2,
+    "IdSistema": 3,
+    "IdUnidadMedida": 6,
+    "Nombre": "cl",
+    "Simbolo": "cl",
+    "Comentario": "Centilitro: 10-2 l"
+  },
+  {
+    "IdMedida": 2,
+    "IdSistema": 3,
+    "IdUnidadMedida": 7,
+    "Nombre": "dl",
+    "Simbolo": "dl",
+    "Comentario": "Decilitro: 10-1 l"
+  },
+  {
+    "IdMedida": 2,
+    "IdSistema": 3,
+    "IdUnidadMedida": 8,
+    "Nombre": "l",
+    "Simbolo": "l",
+    "Comentario": "Litro"
+  },
+  {
+    "IdMedida": 2,
+    "IdSistema": 3,
+    "IdUnidadMedida": 9,
+    "Nombre": "dal",
+    "Simbolo": "dal",
+    "Comentario": "Decalitro: 10 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 1,
+    "IdUnidadMedida": 1,
+    "Nombre": "µl",
+    "Simbolo": "ul",
+    "Comentario": "Microlitro: 10-6 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 1,
+    "IdUnidadMedida": 2,
+    "Nombre": "ml",
+    "Simbolo": "ml",
+    "Comentario": "Mililitro: 10-3 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 1,
+    "IdUnidadMedida": 3,
+    "Nombre": "cl",
+    "Simbolo": "cl",
+    "Comentario": "Centilitro: 10-2 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 1,
+    "IdUnidadMedida": 4,
+    "Nombre": "dl",
+    "Simbolo": "dl",
+    "Comentario": "Decilitro: 10-1 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 1,
+    "IdUnidadMedida": 5,
+    "Nombre": "l",
+    "Simbolo": "l",
+    "Comentario": "Litro"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 1,
+    "IdUnidadMedida": 6,
+    "Nombre": "dal",
+    "Simbolo": "dal",
+    "Comentario": "Decalitro: 10 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 1,
+    "IdUnidadMedida": 7,
+    "Nombre": "hl",
+    "Simbolo": "hl",
+    "Comentario": "Hectolitro: 100 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 1,
+    "IdUnidadMedida": 8,
+    "Nombre": "kl",
+    "Simbolo": "kl",
+    "Comentario": "Kilolitro: 1000 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 1,
+    "IdUnidadMedida": 9,
+    "Nombre": "mm3",
+    "Simbolo": "mm3",
+    "Comentario": "Milímetro cúbico: 10-6 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 1,
+    "IdUnidadMedida": 10,
+    "Nombre": "cm3",
+    "Simbolo": "cm3",
+    "Comentario": "Centímetro cúbico: 10-3 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 1,
+    "IdUnidadMedida": 11,
+    "Nombre": "dm3",
+    "Simbolo": "dm3",
+    "Comentario": "Decímetro cúbico: 1 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 1,
+    "IdUnidadMedida": 12,
+    "Nombre": "m3",
+    "Simbolo": "m3",
+    "Comentario": "Metro cúbico: 1000 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 3,
+    "IdUnidadMedida": 1,
+    "Nombre": "fl oz UK",
+    "Simbolo": "fl oz UK",
+    "Comentario": "Onza líquida UK: 28.4130625 ml"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 3,
+    "IdUnidadMedida": 2,
+    "Nombre": "gill UK",
+    "Simbolo": "gill UK",
+    "Comentario": "Gill UK: 4 fl oz UK, o 142.0653125 ml"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 3,
+    "IdUnidadMedida": 3,
+    "Nombre": "pint UK",
+    "Simbolo": "pint UK",
+    "Comentario": "Pinta líquida UK: 568.26125 ml"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 3,
+    "IdUnidadMedida": 4,
+    "Nombre": "quart UK",
+    "Simbolo": "quart UK",
+    "Comentario": "Cuarto UK: 1.1365225 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 3,
+    "IdUnidadMedida": 5,
+    "Nombre": "gal UK",
+    "Simbolo": "gal UK",
+    "Comentario": "Galón UK: 4.54609 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 4,
+    "IdUnidadMedida": 1,
+    "Nombre": "fl oz",
+    "Simbolo": "fl oz",
+    "Comentario": "Onza líquida EUA: 29.5735295625 ml"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 4,
+    "IdUnidadMedida": 2,
+    "Nombre": "gill",
+    "Simbolo": "gill",
+    "Comentario": "Gill: 4 fl oz, o 118.29411825 ml"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 4,
+    "IdUnidadMedida": 3,
+    "Nombre": "pint",
+    "Simbolo": "pint",
+    "Comentario": "Pinta líquida EUA: 4 gills, 16 fl oz o 473.17647 ml"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 4,
+    "IdUnidadMedida": 4,
+    "Nombre": "quart",
+    "Simbolo": "quart",
+    "Comentario": "Cuarto EUA: 2 pt, 8 gills, 32 fl oz o 0.94635295 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 4,
+    "IdUnidadMedida": 5,
+    "Nombre": "gal",
+    "Simbolo": "gal",
+    "Comentario": "Galón EUA: 4 qt, 8 pt, 32 gills, 128 fl u oz 3.875 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 6,
+    "IdUnidadMedida": 1,
+    "Nombre": "pinta seca",
+    "Simbolo": "pinta seca",
+    "Comentario": "Pinta seca: 550.610471358 ml"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 6,
+    "IdUnidadMedida": 2,
+    "Nombre": "cuarto seco",
+    "Simbolo": "cuarto seco",
+    "Comentario": "Cuarto seco: 2 pinta seca, o 1.10122094272 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 6,
+    "IdUnidadMedida": 3,
+    "Nombre": "galón seco",
+    "Simbolo": "galon seco",
+    "Comentario": "Galón seco: 4 cuarto seco, 8 pinta seca, o 4.40488377086 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 6,
+    "IdUnidadMedida": 4,
+    "Nombre": "pk",
+    "Simbolo": "pk",
+    "Comentario": "Peck: 2 galón seco, 8 cuarto seco, 16 pinta seca, o8.80976754172 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 6,
+    "IdUnidadMedida": 5,
+    "Nombre": "bu",
+    "Simbolo": "bu",
+    "Comentario": "Bushel (EUA): 8 gal, o 35.23907 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 7,
+    "IdUnidadMedida": 1,
+    "Nombre": "pinta seca UK",
+    "Simbolo": "pinta seca UK",
+    "Comentario": "Pinta seca UK:661.25560456 ml"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 7,
+    "IdUnidadMedida": 2,
+    "Nombre": "cuarto seco UK",
+    "Simbolo": "cuarto seco UK",
+    "Comentario": "Cuarto seco UK: 2 pinta seca UK, o1,32251120912 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 7,
+    "IdUnidadMedida": 3,
+    "Nombre": "pk UK",
+    "Simbolo": "pk UK",
+    "Comentario": "Peck: 8 cuarto seco UK, 16 pinta seca UK, o10.5800896729 l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 7,
+    "IdUnidadMedida": 4,
+    "Nombre": "bu UK",
+    "Simbolo": "bu UK",
+    "Comentario": "Bushel (UK): 4 pk UK, o 42.3203586918l"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 8,
+    "IdUnidadMedida": 1,
+    "Nombre": "in3",
+    "Simbolo": "in3",
+    "Comentario": "Pulgada cúbica: 16,387064 cm³"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 8,
+    "IdUnidadMedida": 2,
+    "Nombre": "ft3",
+    "Simbolo": "Ft3",
+    "Comentario": "Pie cúbico: 1728 in³, o 28,316846592 dm³"
+  },
+  {
+    "IdMedida": 3,
+    "IdSistema": 8,
+    "IdUnidadMedida": 3,
+    "Nombre": "yd3",
+    "Simbolo": "yd3",
+    "Comentario": "Yarda cúbica: 27 ft³, 46656 in³ o 764.554857984 dm³"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 1,
+    "IdUnidadMedida": 1,
+    "Nombre": "µg",
+    "Simbolo": "ug",
+    "Comentario": "Microgramo: 10-6 g"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 1,
+    "IdUnidadMedida": 2,
+    "Nombre": "mg",
+    "Simbolo": "mg",
+    "Comentario": "Miligramo: 10-3 g"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 1,
+    "IdUnidadMedida": 3,
+    "Nombre": "cg",
+    "Simbolo": "cg",
+    "Comentario": "Centígramo: 10-2 g"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 1,
+    "IdUnidadMedida": 4,
+    "Nombre": "dg",
+    "Simbolo": "dg",
+    "Comentario": "Decigramo: 10-1 g"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 1,
+    "IdUnidadMedida": 5,
+    "Nombre": "g",
+    "Simbolo": "g",
+    "Comentario": "Gramo"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 1,
+    "IdUnidadMedida": 6,
+    "Nombre": "dag",
+    "Simbolo": "dag",
+    "Comentario": "Decagramo: 10 g"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 1,
+    "IdUnidadMedida": 7,
+    "Nombre": "hg",
+    "Simbolo": "hg",
+    "Comentario": "Héctogramo: 100 g"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 1,
+    "IdUnidadMedida": 8,
+    "Nombre": "kg",
+    "Simbolo": "kg",
+    "Comentario": "Kilogramo: 1000 g"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 1,
+    "IdUnidadMedida": 9,
+    "Nombre": "t",
+    "Simbolo": "t",
+    "Comentario": "Tonelada: 1000 kg"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 3,
+    "IdUnidadMedida": 1,
+    "Nombre": "ton",
+    "Simbolo": "ton",
+    "Comentario": "Tonelada Curta: 907.18474 Kg"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 3,
+    "IdUnidadMedida": 2,
+    "Nombre": "LTN",
+    "Simbolo": "LTN",
+    "Comentario": "Tonelada Longa: 1016.0469088 Kg"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 3,
+    "IdUnidadMedida": 3,
+    "Nombre": "TN",
+    "Simbolo": "TN",
+    "Comentario": "Tonelada de carga: Unidad de información que normalmente se utiliza para la facturación, que se define como sea el número de toneladas métricas o el número de metros cúbicos, lo que sea mayor"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 9,
+    "IdUnidadMedida": 4,
+    "Nombre": "gr",
+    "Simbolo": "gr",
+    "Comentario": "Grain (1/7000 lb, o 64.79mg)"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 9,
+    "IdUnidadMedida": 5,
+    "Nombre": "dr",
+    "Simbolo": "dr",
+    "Comentario": "Dram (1/256 lb, 1/16 oz, o 1.772 g)"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 9,
+    "IdUnidadMedida": 6,
+    "Nombre": "oz",
+    "Simbolo": "oz",
+    "Comentario": "Onza (1/16 lb, o 28.35 g)"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 9,
+    "IdUnidadMedida": 7,
+    "Nombre": "lb",
+    "Simbolo": "lb",
+    "Comentario": "Libra (453.6 g)"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 9,
+    "IdUnidadMedida": 8,
+    "Nombre": "st",
+    "Simbolo": "st",
+    "Comentario": "Stone (14 lb, 1/2 qr, o 6.3504 kg)"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 9,
+    "IdUnidadMedida": 9,
+    "Nombre": "qr",
+    "Simbolo": "qr",
+    "Comentario": "Quarter (28 lb, o 12.708 kg)"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 9,
+    "IdUnidadMedida": 10,
+    "Nombre": "cwt",
+    "Simbolo": "cwt",
+    "Comentario": "Hundredweight (50.8 kg)"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 9,
+    "IdUnidadMedida": 11,
+    "Nombre": "ozt",
+    "Simbolo": "ozt",
+    "Comentario": "Onza troy: 31.103g"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 9,
+    "IdUnidadMedida": 12,
+    "Nombre": "lbt",
+    "Simbolo": "lbt",
+    "Comentario": "Libra troy: 373.24 g"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 9,
+    "IdUnidadMedida": 13,
+    "Nombre": "dwt",
+    "Simbolo": "dwt",
+    "Comentario": "Pennyweight: 1.55 g"
+  },
+  {
+    "IdMedida": 4,
+    "IdSistema": 10,
+    "IdUnidadMedida": 1,
+    "Nombre": "ct",
+    "Simbolo": "ct",
+    "Comentario": "Quilate métrico: 200 mg (se utiliza para la medición de oro, piedras preciosas y perlas)"
+  },
+  {
+    "IdMedida": 5,
+    "IdSistema": 11,
+    "IdUnidadMedida": 1,
+    "Nombre": "Unidad",
+    "Simbolo": "und",
+    "Comentario": ""
+  },
+  {
+    "IdMedida": 5,
+    "IdSistema": 11,
+    "IdUnidadMedida": 2,
+    "Nombre": "Persona",
+    "Simbolo": "Persona",
+    "Comentario": ""
+  },
+  {
+    "IdMedida": 5,
+    "IdSistema": 11,
+    "IdUnidadMedida": 3,
+    "Nombre": "Cabeza",
+    "Simbolo": "Cabeza",
+    "Comentario": "Cabeza: animal considerado como un número"
+  },
+  {
+    "IdMedida": 5,
+    "IdSistema": 11,
+    "IdUnidadMedida": 4,
+    "Nombre": "Grupo",
+    "Simbolo": "Grupo",
+    "Comentario": "Grupo: conjunto de elementos clasificados juntos"
+  },
+  {
+    "IdMedida": 5,
+    "IdSistema": 11,
+    "IdUnidadMedida": 5,
+    "Nombre": "Bobina",
+    "Simbolo": "Bobina",
+    "Comentario": ""
+  },
+  {
+    "IdMedida": 5,
+    "IdSistema": 11,
+    "IdUnidadMedida": 6,
+    "Nombre": "Decena",
+    "Simbolo": "Decena",
+    "Comentario": "Unidad de recuento de definir el número de unidades en múltiplos de 10"
+  },
+  {
+    "IdMedida": 5,
+    "IdSistema": 11,
+    "IdUnidadMedida": 7,
+    "Nombre": "Docena",
+    "Simbolo": "Docena",
+    "Comentario": "Unidad de recuento de definir el número de unidades en múltiplos de 12"
+  },
+  {
+    "IdMedida": 5,
+    "IdSistema": 11,
+    "IdUnidadMedida": 8,
+    "Nombre": "Ciento",
+    "Simbolo": "Ciento",
+    "Comentario": "Unidad de cuenta que define el número de unidades contadas en múltiplos de 100"
+  },
+  {
+    "IdMedida": 5,
+    "IdSistema": 11,
+    "IdUnidadMedida": 9,
+    "Nombre": "Millar",
+    "Simbolo": "Millar",
+    "Comentario": "Unidad de cuenta que define el número de unidades contadas en múltiplos de 1000"
+  },
+  {
+    "IdMedida": 5,
+    "IdSistema": 11,
+    "IdUnidadMedida": 10,
+    "Nombre": "Viaje",
+    "Simbolo": "Viaje",
+    "Comentario": ""
+  },
+  {
+    "IdMedida": 5,
+    "IdSistema": 11,
+    "IdUnidadMedida": 11,
+    "Nombre": "Visita",
+    "Simbolo": "Visita",
+    "Comentario": ""
+  },
+  {
+    "IdMedida": 5,
+    "IdSistema": 11,
+    "IdUnidadMedida": 12,
+    "Nombre": "Paquete",
+    "Simbolo": "Paquete",
+    "Comentario": "Unidad de empaque"
+  },
+  {
+    "IdMedida": 5,
+    "IdSistema": 11,
+    "IdUnidadMedida": 13,
+    "Nombre": "Kit",
+    "Simbolo": "Kit",
+    "Comentario": "Conjunto de piezas"
+  },
+  {
+    "IdMedida": 5,
+    "IdSistema": 11,
+    "IdUnidadMedida": 14,
+    "Nombre": "Barrica",
+    "Simbolo": "Barrica",
+    "Comentario": ""
+  },
+  {
+    "IdMedida": 5,
+    "IdSistema": 12,
+    "IdUnidadMedida": 1,
+    "Nombre": "Barril",
+    "Simbolo": "Barril",
+    "Comentario": ""
+  },
+  {
+    "IdMedida": 5,
+    "IdSistema": 12,
+    "IdUnidadMedida": 2,
+    "Nombre": "Blanco",
+    "Simbolo": "Blanco",
+    "Comentario": "Unidad de conteo que define el número de blancos"
+  },
+  {
+    "IdMedida": 5,
+    "IdSistema": 12,
+    "IdUnidadMedida": 3,
+    "Nombre": "Bolso",
+    "Simbolo": "Bolso",
+    "Comentario": "Recipiente de material flexible con tapa abierta o cerrada"
+  },
+  {
+    "IdMedida": 5,
+    "IdSistema": 12,
+    "IdUnidadMedida": 4,
+    "Nombre": "Caja",
+    "Simbolo": "Caja",
+    "Comentario": ""
+  },
+  {
+    "IdMedida": 5,
+    "IdSistema": 12,
+    "IdUnidadMedida": 5,
+    "Nombre": "Cesta",
+    "Simbolo": "Cesta",
+    "Comentario": ""
+  },
+  {
+    "IdMedida": 6,
+    "IdSistema": 3,
+    "IdUnidadMedida": 1,
+    "Nombre": "BTU",
+    "Simbolo": "BTU",
+    "Comentario": "Unidad térmica británica"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 2,
+    "IdUnidadMedida": 1,
+    "Nombre": "Kcaracter",
+    "Simbolo": "Kcaracter",
+    "Comentario": "Kilocaracter: Unidad de información igual a 10³ caracteres"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 2,
+    "IdUnidadMedida": 2,
+    "Nombre": "Pixel",
+    "Simbolo": "Pixel",
+    "Comentario": "Unidad de recuento de definir el número de píxeles (píxel: elemento de imagen)"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 2,
+    "IdUnidadMedida": 3,
+    "Nombre": "MPixel",
+    "Simbolo": "MPixel",
+    "Comentario": "Megapíxeles: Unidad de recuento igual a 106 (1000000) píxeles (elementos de imagen)"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 2,
+    "IdUnidadMedida": 4,
+    "Nombre": "dpi",
+    "Simbolo": "dpi",
+    "Comentario": "Puntos por pulgada: Número de puntos por pulgada lineal"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 5,
+    "IdUnidadMedida": 1,
+    "Nombre": "bit",
+    "Simbolo": "bit",
+    "Comentario": "Unidad de información igual a un dígito binario"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 5,
+    "IdUnidadMedida": 2,
+    "Nombre": "bit/s",
+    "Simbolo": "bit/s",
+    "Comentario": "Bits por segundo: Unidad de información igual a un dígito binario por segundo"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 5,
+    "IdUnidadMedida": 3,
+    "Nombre": "kbit",
+    "Simbolo": "kbit",
+    "Comentario": "Kilobits: Unidad de información igual a 10³ (1000) bits (dígitos binarios)"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 5,
+    "IdUnidadMedida": 4,
+    "Nombre": "",
+    "Simbolo": "",
+    "Comentario": "Kilobits por segundo: Unidad de información igual a 10 ³ (1000) bits (dígitos binarios) por"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 5,
+    "IdUnidadMedida": 5,
+    "Nombre": "kbit/s",
+    "Simbolo": "kbit/s",
+    "Comentario": ""
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 5,
+    "IdUnidadMedida": 6,
+    "Nombre": "",
+    "Simbolo": "",
+    "Comentario": "segundo"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 5,
+    "IdUnidadMedida": 7,
+    "Nombre": "Kibit",
+    "Simbolo": "Kibit",
+    "Comentario": "Kibibit: Unidad de información igual a 2?° (1024) bits (dígitos binarios)"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 5,
+    "IdUnidadMedida": 8,
+    "Nombre": "Mbit",
+    "Simbolo": "Mbit",
+    "Comentario": "Megabit: Unidad de información igual a 106 (1000000) bits (dígitos binarios)"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 5,
+    "IdUnidadMedida": 9,
+    "Nombre": "",
+    "Simbolo": "",
+    "Comentario": "Megabit por segundo: Unidad de información igual a 106 (1000000) bits (dígitos binarios)"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 5,
+    "IdUnidadMedida": 10,
+    "Nombre": "Mbit/s",
+    "Simbolo": "Mbit/s",
+    "Comentario": ""
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 5,
+    "IdUnidadMedida": 11,
+    "Nombre": "",
+    "Simbolo": "",
+    "Comentario": "por segundo."
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 5,
+    "IdUnidadMedida": 12,
+    "Nombre": "Mibit",
+    "Simbolo": "Mibit",
+    "Comentario": "Mebibit: Unidad de información igual a 2²° (1048576) bits (dígitos binarios)"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 5,
+    "IdUnidadMedida": 13,
+    "Nombre": "Gbit",
+    "Simbolo": "Gbit",
+    "Comentario": "Gigabit: Unidad de información igual a 10? bits (dígitos binarios)"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 5,
+    "IdUnidadMedida": 14,
+    "Nombre": "Gbit/s",
+    "Simbolo": "Gbit/s",
+    "Comentario": "Gigabit por segundo: Unidad de información igual a 10? bits (dígitos binarios) por segundo"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 5,
+    "IdUnidadMedida": 15,
+    "Nombre": "Gibit",
+    "Simbolo": "Gibit",
+    "Comentario": "Gibibit: Unidad de información igual a 2³° bits (dígitos binarios)"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 5,
+    "IdUnidadMedida": 16,
+    "Nombre": "Pbit",
+    "Simbolo": "Pbit",
+    "Comentario": "Petabit: Unidad de información igual a 10?5 los bits (dígitos binarios)"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 5,
+    "IdUnidadMedida": 17,
+    "Nombre": "Tbit",
+    "Simbolo": "Tbit",
+    "Comentario": "Tebibit: Unidad de información igual a 10¹² los bits (dígitos binarios)"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 13,
+    "IdUnidadMedida": 1,
+    "Nombre": "byte",
+    "Simbolo": "byte",
+    "Comentario": "Byte: Unidad de información igual a 8 bits"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 13,
+    "IdUnidadMedida": 2,
+    "Nombre": "kbyte",
+    "Simbolo": "kbyte",
+    "Comentario": "Kilobyte: Unidad de información igual a 103 bytes"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 13,
+    "IdUnidadMedida": 3,
+    "Nombre": "Mbyte",
+    "Simbolo": "Mbyte",
+    "Comentario": "Mbyte: Unidad de información igual a 106 bytes"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 13,
+    "IdUnidadMedida": 4,
+    "Nombre": "Gbyte",
+    "Simbolo": "Gbyte",
+    "Comentario": "Gigabyte: Unidad de información igual a 109 bytes"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 13,
+    "IdUnidadMedida": 5,
+    "Nombre": "Tbyte",
+    "Simbolo": "Tbyte",
+    "Comentario": "Terabyte: Unidad de información igual a 1012 bytes"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 13,
+    "IdUnidadMedida": 6,
+    "Nombre": "Pbyte",
+    "Simbolo": "Pbyte",
+    "Comentario": "Petabyte: Unidad de información igual a 1015bytes"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 13,
+    "IdUnidadMedida": 7,
+    "Nombre": "Ebyte",
+    "Simbolo": "Ebyte",
+    "Comentario": "Exbibyte: Unidad de información igual a 1018 bytes"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 13,
+    "IdUnidadMedida": 8,
+    "Nombre": "Kibyte",
+    "Simbolo": "Kibyte",
+    "Comentario": "Kibibyte: Unidad de información igual a 2?° bytes"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 13,
+    "IdUnidadMedida": 9,
+    "Nombre": "Mibyte",
+    "Simbolo": "Mibyte",
+    "Comentario": "Mebibyte: Unidad de información igual a 2²° bytes"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 13,
+    "IdUnidadMedida": 10,
+    "Nombre": "Gibyte",
+    "Simbolo": "Gibyte",
+    "Comentario": "Gibibyte: Unidad de información igual a 2³° bytes"
+  },
+  {
+    "IdMedida": 7,
+    "IdSistema": 13,
+    "IdUnidadMedida": 11,
+    "Nombre": "Tibyte",
+    "Simbolo": "Tibyte",
+    "Comentario": "Tebibyte: Unidad de información igual a 24° bytes"
+  },
+  {
+    "IdMedida": 8,
+    "IdSistema": 2,
+    "IdUnidadMedida": 1,
+    "Nombre": "Líneas de acceso",
+    "Simbolo": "Lineas acceso",
+    "Comentario": "Número de líneas de acceso telefónico"
+  },
+  {
+    "IdMedida": 8,
+    "IdSistema": 2,
+    "IdUnidadMedida": 2,
+    "Nombre": "Líneas en servicio",
+    "Simbolo": "Líneas servicio",
+    "Comentario": "Número de líneas de servicio"
+  },
+  {
+    "IdMedida": 8,
+    "IdSistema": 2,
+    "IdUnidadMedida": 3,
+    "Nombre": "Llamada",
+    "Simbolo": "Llamada",
+    "Comentario": "Una unidad de recuento de definir el número de llamadas"
+  },
+  {
+    "IdMedida": 8,
+    "IdSistema": 2,
+    "IdUnidadMedida": 4,
+    "Nombre": "MML",
+    "Simbolo": "MML",
+    "Comentario": "Minuto y medio por llamada: Número de minutos (para el intervalo medio de una llamada)"
+  },
+  {
+    "IdMedida": 8,
+    "IdSistema": 2,
+    "IdUnidadMedida": 5,
+    "Nombre": "Puerto",
+    "Simbolo": "Puerto",
+    "Comentario": "Puerto de telecomunicaciones: Número de puerto de acceso a la red"
+  },
+  {
+    "IdMedida": 9,
+    "IdSistema": 2,
+    "IdUnidadMedida": 1,
+    "Nombre": "W",
+    "Simbolo": "W",
+    "Comentario": "Watt"
+  },
+  {
+    "IdMedida": 9,
+    "IdSistema": 2,
+    "IdUnidadMedida": 2,
+    "Nombre": "kW",
+    "Simbolo": "kW",
+    "Comentario": "Kilowatt"
+  },
+  {
+    "IdMedida": 9,
+    "IdSistema": 2,
+    "IdUnidadMedida": 3,
+    "Nombre": "MW",
+    "Simbolo": "MW",
+    "Comentario": "Megawatt"
+  },
+  {
+    "IdMedida": 9,
+    "IdSistema": 2,
+    "IdUnidadMedida": 4,
+    "Nombre": "GW",
+    "Simbolo": "GW",
+    "Comentario": "Gigawatt"
+  },
+  {
+    "IdMedida": 9,
+    "IdSistema": 2,
+    "IdUnidadMedida": 5,
+    "Nombre": "TW",
+    "Simbolo": "TW",
+    "Comentario": "Terawatt"
+  },
+  {
+    "IdMedida": 9,
+    "IdSistema": 2,
+    "IdUnidadMedida": 6,
+    "Nombre": "Wh",
+    "Simbolo": "Wh",
+    "Comentario": "Watt hora"
+  },
+  {
+    "IdMedida": 9,
+    "IdSistema": 2,
+    "IdUnidadMedida": 7,
+    "Nombre": "kWh",
+    "Simbolo": "kWh",
+    "Comentario": "Kilowatt hora"
+  },
+  {
+    "IdMedida": 9,
+    "IdSistema": 2,
+    "IdUnidadMedida": 8,
+    "Nombre": "MWh",
+    "Simbolo": "MWh",
+    "Comentario": "Megawatt hora"
+  },
+  {
+    "IdMedida": 9,
+    "IdSistema": 2,
+    "IdUnidadMedida": 9,
+    "Nombre": "GWh",
+    "Simbolo": "GWh",
+    "Comentario": "Gigawatt hora"
+  },
+  {
+    "IdMedida": 9,
+    "IdSistema": 2,
+    "IdUnidadMedida": 10,
+    "Nombre": "TWh",
+    "Simbolo": "TWh",
+    "Comentario": "Terawatt hora"
+  },
+  {
+    "IdMedida": 9,
+    "IdSistema": 2,
+    "IdUnidadMedida": 11,
+    "Nombre": "VA",
+    "Simbolo": "VA",
+    "Comentario": "Voltio-amperio"
+  },
+  {
+    "IdMedida": 9,
+    "IdSistema": 2,
+    "IdUnidadMedida": 12,
+    "Nombre": "kVA",
+    "Simbolo": "kVA",
+    "Comentario": "Kilooltio-amperio"
+  },
+  {
+    "IdMedida": 9,
+    "IdSistema": 2,
+    "IdUnidadMedida": 13,
+    "Nombre": "MVA",
+    "Simbolo": "MVA",
+    "Comentario": "Megavoltio-amperio"
+  },
+  {
+    "IdMedida": 10,
+    "IdSistema": 2,
+    "IdUnidadMedida": 1,
+    "Nombre": "Denier",
+    "Simbolo": "Denier",
+    "Comentario": "Unidad tradicional para la indicación de la masa lineal de fibras e hilados textiles"
+  },
+  {
+    "IdMedida": 10,
+    "IdSistema": 2,
+    "IdUnidadMedida": 2,
+    "Nombre": "lbb",
+    "Simbolo": "lbb",
+    "Comentario": "Libra de bateo: Unidad de masa que define el número de libras de fibra acolchada"
+  },
+  {
+    "IdMedida": 10,
+    "IdSistema": 2,
+    "IdUnidadMedida": 3,
+    "Nombre": "Madeja",
+    "Simbolo": "Madeja",
+    "Comentario": "Unidad de longitud, típicamente para el hilado"
+  },
+  {
+    "IdMedida": 10,
+    "IdSistema": 2,
+    "IdUnidadMedida": 4,
+    "Nombre": "Año",
+    "Simbolo": "Ano",
+    "Comentario": "Unidad de tiempo equivalente a 365.25 días Es un año civil de 365 días, uno menos que el año bisiesto, por lo que tiene exactamente 52 semanas y un día"
+  },
+  {
+    "IdMedida": 11,
+    "IdSistema": 2,
+    "IdUnidadMedida": 1,
+    "Nombre": "Año común",
+    "Simbolo": "Año común",
+    "Comentario": "Es un año civil de 365 días, uno menos que el año bisiesto, por lo que tiene exactamente 52 semanas y un día, El reparto de los años civiles entre años comunes y años bisiestos se hace de acuerdo con el calendario gregoriano: en cada período de 400 años hay 303 comunes y 97 bisiestos"
+  },
+  {
+    "IdMedida": 11,
+    "IdSistema": 2,
+    "IdUnidadMedida": 2,
+    "Nombre": "Mes",
+    "Simbolo": "Mes",
+    "Comentario": ""
+  },
+  {
+    "IdMedida": 11,
+    "IdSistema": 2,
+    "IdUnidadMedida": 3,
+    "Nombre": "Día",
+    "Simbolo": "Dia",
+    "Comentario": ""
+  },
+  {
+    "IdMedida": 11,
+    "IdSistema": 2,
+    "IdUnidadMedida": 4,
+    "Nombre": "Hora",
+    "Simbolo": "Hora",
+    "Comentario": ""
+  },
+  {
+    "IdMedida": 11,
+    "IdSistema": 2,
+    "IdUnidadMedida": 5,
+    "Nombre": "Minuto",
+    "Simbolo": "Min",
+    "Comentario": ""
+  },
+  {
+    "IdMedida": 11,
+    "IdSistema": 2,
+    "IdUnidadMedida": 6,
+    "Nombre": "Segundo",
+    "Simbolo": "Seg",
+    "Comentario": ""
+  },
+  {
+    "IdMedida": 12,
+    "IdSistema": 2,
+    "IdUnidadMedida": 1,
+    "Nombre": "Semana",
+    "Simbolo": "Semana",
+    "Comentario": "Período de tiempo estándar utilizado para los ciclos de días de trabajo y de descanso"
+  },
+  {
+    "IdMedida": 12,
+    "IdSistema": 2,
+    "IdUnidadMedida": 2,
+    "Nombre": "Actividad",
+    "Simbolo": "Actividad",
+    "Comentario": "Actividad: una unidad de trabajo o acción"
+  },
+  {
+    "IdMedida": 12,
+    "IdSistema": 2,
+    "IdUnidadMedida": 3,
+    "Nombre": "Hora de trabajo",
+    "Simbolo": "Hora trabajo",
+    "Comentario": "Número de horas de trabajo"
+  },
+  {
+    "IdMedida": 12,
+    "IdSistema": 2,
+    "IdUnidadMedida": 4,
+    "Nombre": "Hora extra",
+    "Simbolo": "Hora extra",
+    "Comentario": "Número de horas extras"
+  },
+  {
+    "IdMedida": 12,
+    "IdSistema": 2,
+    "IdUnidadMedida": 5,
+    "Nombre": "Mes de trabajo",
+    "Simbolo": "Mes trabajo",
+    "Comentario": "Número de meses de trabajo"
+  },
+  {
+    "IdMedida": 12,
+    "IdSistema": 2,
+    "IdUnidadMedida": 6,
+    "Nombre": "Personas",
+    "Simbolo": "Personas",
+    "Comentario": "Número de personas"
+  },
+  {
+    "IdMedida": 12,
+    "IdSistema": 2,
+    "IdUnidadMedida": 7,
+    "Nombre": "Puesto",
+    "Simbolo": "Puesto",
+    "Comentario": "Número de puestos de trabajo"
+  }
+]

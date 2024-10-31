@@ -1,0 +1,54 @@
+[
+    {
+        "IGTIPFEProvincia": 1,
+        "Descripcion": "BOCAS DEL TORO"
+    },
+    {
+        "IGTIPFEProvincia": 2,
+        "Descripcion": "COCLE"
+    },
+    {
+        "IGTIPFEProvincia": 3,
+        "Descripcion": "COLON"
+    },
+    {
+        "IGTIPFEProvincia": 4,
+        "Descripcion": "CHIRIQUI"
+    },
+    {
+        "IGTIPFEProvincia": 5,
+        "Descripcion": "DARIEN"
+    },
+    {
+        "IGTIPFEProvincia": 6,
+        "Descripcion": "HERRERA"
+    },
+    {
+        "IGTIPFEProvincia": 7,
+        "Descripcion": "LOS SANTOS"
+    },
+    {
+        "IGTIPFEProvincia": 8,
+        "Descripcion": "PANAMA"
+    },
+    {
+        "IGTIPFEProvincia": 9,
+        "Descripcion": "VERAGUAS"
+    },
+    {
+        "IGTIPFEProvincia": 10,
+        "Descripcion": "COMARCA KUNA YALA"
+    },
+    {
+        "IGTIPFEProvincia": 11,
+        "Descripcion": "COMARCA EMBERA-WOUNAAN"
+    },
+    {
+        "IGTIPFEProvincia": 12,
+        "Descripcion": "COMARCA NGÄBE-BUGLE"
+    },
+    {
+        "IGTIPFEProvincia": 13,
+        "Descripcion": "PANAMA OESTE"
+    }
+]

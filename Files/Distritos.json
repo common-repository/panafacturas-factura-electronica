@@ -1,0 +1,397 @@
+[
+    {
+        "IGTIPFEProvincia": 1,
+        "IGTIPFEDistrito": 1,
+        "Descripcion": "BOCAS DEL TORO"
+    },
+    {
+        "IGTIPFEProvincia": 1,
+        "IGTIPFEDistrito": 2,
+        "Descripcion": "CHANGUINOLA"
+    },
+    {
+        "IGTIPFEProvincia": 1,
+        "IGTIPFEDistrito": 3,
+        "Descripcion": "CHIRIQUI GRANDE"
+    },
+    {
+        "IGTIPFEProvincia": 1,
+        "IGTIPFEDistrito": 4,
+        "Descripcion": "ALMIRANTE"
+    },
+    {
+        "IGTIPFEProvincia": 2,
+        "IGTIPFEDistrito": 1,
+        "Descripcion": "AGUADULCE"
+    },
+    {
+        "IGTIPFEProvincia": 2,
+        "IGTIPFEDistrito": 2,
+        "Descripcion": "ANTON"
+    },
+    {
+        "IGTIPFEProvincia": 2,
+        "IGTIPFEDistrito": 3,
+        "Descripcion": "LA PINTADA"
+    },
+    {
+        "IGTIPFEProvincia": 2,
+        "IGTIPFEDistrito": 4,
+        "Descripcion": "NATA"
+    },
+    {
+        "IGTIPFEProvincia": 2,
+        "IGTIPFEDistrito": 5,
+        "Descripcion": "OLA"
+    },
+    {
+        "IGTIPFEProvincia": 2,
+        "IGTIPFEDistrito": 6,
+        "Descripcion": "PENONOME"
+    },
+    {
+        "IGTIPFEProvincia": 3,
+        "IGTIPFEDistrito": 1,
+        "Descripcion": "COLON"
+    },
+    {
+        "IGTIPFEProvincia": 3,
+        "IGTIPFEDistrito": 2,
+        "Descripcion": "CHAGRES"
+    },
+    {
+        "IGTIPFEProvincia": 3,
+        "IGTIPFEDistrito": 3,
+        "Descripcion": "DONOSO"
+    },
+    {
+        "IGTIPFEProvincia": 3,
+        "IGTIPFEDistrito": 4,
+        "Descripcion": "PORTOBELO"
+    },
+    {
+        "IGTIPFEProvincia": 3,
+        "IGTIPFEDistrito": 5,
+        "Descripcion": "SANTA ISABEL"
+    },
+    {
+        "IGTIPFEProvincia": 4,
+        "IGTIPFEDistrito": 1,
+        "Descripcion": "ALANJE"
+    },
+    {
+        "IGTIPFEProvincia": 4,
+        "IGTIPFEDistrito": 2,
+        "Descripcion": "BARU"
+    },
+    {
+        "IGTIPFEProvincia": 4,
+        "IGTIPFEDistrito": 3,
+        "Descripcion": "BOQUERON"
+    },
+    {
+        "IGTIPFEProvincia": 4,
+        "IGTIPFEDistrito": 4,
+        "Descripcion": "BOQUETE"
+    },
+    {
+        "IGTIPFEProvincia": 4,
+        "IGTIPFEDistrito": 5,
+        "Descripcion": "BUGABA"
+    },
+    {
+        "IGTIPFEProvincia": 4,
+        "IGTIPFEDistrito": 6,
+        "Descripcion": "DAVID"
+    },
+    {
+        "IGTIPFEProvincia": 4,
+        "IGTIPFEDistrito": 7,
+        "Descripcion": "DOLEGA"
+    },
+    {
+        "IGTIPFEProvincia": 4,
+        "IGTIPFEDistrito": 8,
+        "Descripcion": "GUALACA"
+    },
+    {
+        "IGTIPFEProvincia": 4,
+        "IGTIPFEDistrito": 9,
+        "Descripcion": "REMEDIOS"
+    },
+    {
+        "IGTIPFEProvincia": 4,
+        "IGTIPFEDistrito": 10,
+        "Descripcion": "RENACIMIENTO"
+    },
+    {
+        "IGTIPFEProvincia": 4,
+        "IGTIPFEDistrito": 11,
+        "Descripcion": "SAN FELIX"
+    },
+    {
+        "IGTIPFEProvincia": 4,
+        "IGTIPFEDistrito": 12,
+        "Descripcion": "SAN LORENZO"
+    },
+    {
+        "IGTIPFEProvincia": 4,
+        "IGTIPFEDistrito": 13,
+        "Descripcion": "TOLE"
+    },
+    {
+        "IGTIPFEProvincia": 5,
+        "IGTIPFEDistrito": 1,
+        "Descripcion": "CHEPIGANA"
+    },
+    {
+        "IGTIPFEProvincia": 5,
+        "IGTIPFEDistrito": 2,
+        "Descripcion": "PINOGANA"
+    },
+    {
+        "IGTIPFEProvincia": 6,
+        "IGTIPFEDistrito": 1,
+        "Descripcion": "CHITRE"
+    },
+    {
+        "IGTIPFEProvincia": 6,
+        "IGTIPFEDistrito": 2,
+        "Descripcion": "LAS MINAS"
+    },
+    {
+        "IGTIPFEProvincia": 6,
+        "IGTIPFEDistrito": 3,
+        "Descripcion": "LOS POZOS"
+    },
+    {
+        "IGTIPFEProvincia": 6,
+        "IGTIPFEDistrito": 4,
+        "Descripcion": "OCU"
+    },
+    {
+        "IGTIPFEProvincia": 6,
+        "IGTIPFEDistrito": 5,
+        "Descripcion": "PARITA"
+    },
+    {
+        "IGTIPFEProvincia": 6,
+        "IGTIPFEDistrito": 6,
+        "Descripcion": "PESE"
+    },
+    {
+        "IGTIPFEProvincia": 6,
+        "IGTIPFEDistrito": 7,
+        "Descripcion": "SANTA MARIA"
+    },
+    {
+        "IGTIPFEProvincia": 7,
+        "IGTIPFEDistrito": 1,
+        "Descripcion": "GUARARE"
+    },
+    {
+        "IGTIPFEProvincia": 7,
+        "IGTIPFEDistrito": 2,
+        "Descripcion": "LAS TABLAS"
+    },
+    {
+        "IGTIPFEProvincia": 7,
+        "IGTIPFEDistrito": 3,
+        "Descripcion": "LOS SANTOS"
+    },
+    {
+        "IGTIPFEProvincia": 7,
+        "IGTIPFEDistrito": 4,
+        "Descripcion": "MACARACAS"
+    },
+    {
+        "IGTIPFEProvincia": 7,
+        "IGTIPFEDistrito": 5,
+        "Descripcion": "PEDASI"
+    },
+    {
+        "IGTIPFEProvincia": 7,
+        "IGTIPFEDistrito": 6,
+        "Descripcion": "POCRI"
+    },
+    {
+        "IGTIPFEProvincia": 7,
+        "IGTIPFEDistrito": 7,
+        "Descripcion": "TONOSI"
+    },
+    {
+        "IGTIPFEProvincia": 8,
+        "IGTIPFEDistrito": 2,
+        "Descripcion": "BALBOA"
+    },
+    {
+        "IGTIPFEProvincia": 8,
+        "IGTIPFEDistrito": 5,
+        "Descripcion": "CHEPO"
+    },
+    {
+        "IGTIPFEProvincia": 8,
+        "IGTIPFEDistrito": 6,
+        "Descripcion": "CHIMAN"
+    },
+    {
+        "IGTIPFEProvincia": 8,
+        "IGTIPFEDistrito": 8,
+        "Descripcion": "PANAMA"
+    },
+    {
+        "IGTIPFEProvincia": 8,
+        "IGTIPFEDistrito": 10,
+        "Descripcion": "SAN MIGUELITO"
+    },
+    {
+        "IGTIPFEProvincia": 8,
+        "IGTIPFEDistrito": 11,
+        "Descripcion": "TABOGA"
+    },
+    {
+        "IGTIPFEProvincia": 9,
+        "IGTIPFEDistrito": 1,
+        "Descripcion": "ATALAYA"
+    },
+    {
+        "IGTIPFEProvincia": 9,
+        "IGTIPFEDistrito": 2,
+        "Descripcion": "CALOBRE"
+    },
+    {
+        "IGTIPFEProvincia": 9,
+        "IGTIPFEDistrito": 3,
+        "Descripcion": "CAÑAZAS"
+    },
+    {
+        "IGTIPFEProvincia": 9,
+        "IGTIPFEDistrito": 4,
+        "Descripcion": "LA MEZA"
+    },
+    {
+        "IGTIPFEProvincia": 9,
+        "IGTIPFEDistrito": 5,
+        "Descripcion": "LAS PALMAS"
+    },
+    {
+        "IGTIPFEProvincia": 9,
+        "IGTIPFEDistrito": 6,
+        "Descripcion": "MONTIJO"
+    },
+    {
+        "IGTIPFEProvincia": 9,
+        "IGTIPFEDistrito": 7,
+        "Descripcion": "RIO DE JESUS"
+    },
+    {
+        "IGTIPFEProvincia": 9,
+        "IGTIPFEDistrito": 8,
+        "Descripcion": "SAN FRANCISCO"
+    },
+    {
+        "IGTIPFEProvincia": 9,
+        "IGTIPFEDistrito": 9,
+        "Descripcion": "SANTA FE"
+    },
+    {
+        "IGTIPFEProvincia": 9,
+        "IGTIPFEDistrito": 10,
+        "Descripcion": "SANTIAGO"
+    },
+    {
+        "IGTIPFEProvincia": 9,
+        "IGTIPFEDistrito": 11,
+        "Descripcion": "SONA"
+    },
+    {
+        "IGTIPFEProvincia": 9,
+        "IGTIPFEDistrito": 12,
+        "Descripcion": "MARIATO"
+    },
+    {
+        "IGTIPFEProvincia": 10,
+        "IGTIPFEDistrito": 1,
+        "Descripcion": "COMARCA KUNA YALA"
+    },
+    {
+        "IGTIPFEProvincia": 11,
+        "IGTIPFEDistrito": 1,
+        "Descripcion": "CEMACO"
+    },
+    {
+        "IGTIPFEProvincia": 11,
+        "IGTIPFEDistrito": 2,
+        "Descripcion": "SAMBU"
+    },
+    {
+        "IGTIPFEProvincia": 12,
+        "IGTIPFEDistrito": 1,
+        "Descripcion": "BESIKO"
+    },
+    {
+        "IGTIPFEProvincia": 12,
+        "IGTIPFEDistrito": 2,
+        "Descripcion": "MIRONO"
+    },
+    {
+        "IGTIPFEProvincia": 12,
+        "IGTIPFEDistrito": 3,
+        "Descripcion": "MUNA"
+    },
+    {
+        "IGTIPFEProvincia": 12,
+        "IGTIPFEDistrito": 4,
+        "Descripcion": "NOLE DUIMA"
+    },
+    {
+        "IGTIPFEProvincia": 12,
+        "IGTIPFEDistrito": 5,
+        "Descripcion": "NURUM"
+    },
+    {
+        "IGTIPFEProvincia": 12,
+        "IGTIPFEDistrito": 6,
+        "Descripcion": "KANKINTU"
+    },
+    {
+        "IGTIPFEProvincia": 12,
+        "IGTIPFEDistrito": 7,
+        "Descripcion": "KUSAPIN"
+    },
+    {
+        "IGTIPFEProvincia": 12,
+        "IGTIPFEDistrito": 8,
+        "Descripcion": "JIRONDAI"
+    },
+    {
+        "IGTIPFEProvincia": 12,
+        "IGTIPFEDistrito": 9,
+        "Descripcion": "SANTA CATALINA O CALOVEBORA (BLEDESHIA)"
+    },
+    {
+        "IGTIPFEProvincia": 13,
+        "IGTIPFEDistrito": 1,
+        "Descripcion": "ARRAIJAN"
+    },
+    {
+        "IGTIPFEProvincia": 13,
+        "IGTIPFEDistrito": 2,
+        "Descripcion": "CAPIRA"
+    },
+    {
+        "IGTIPFEProvincia": 13,
+        "IGTIPFEDistrito": 3,
+        "Descripcion": "CHAME"
+    },
+    {
+        "IGTIPFEProvincia": 13,
+        "IGTIPFEDistrito": 4,
+        "Descripcion": "LA CHORRERA"
+    },
+    {
+        "IGTIPFEProvincia": 13,
+        "IGTIPFEDistrito": 5,
+        "Descripcion": "SAN CARLOS"
+    }
+]

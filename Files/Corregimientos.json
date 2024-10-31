@@ -1,0 +1,3878 @@
+[
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "BOCAS DEL TORO (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BASTIMENTOS"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "CAUCHERO"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "PUNTA LAUREL"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "TIERRA OSCURA"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "CHANGUINOLA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "GUABITO"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "TERIBE"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "VALLE DEL RISCO"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "EL EMPALME"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "LAS TABLAS"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "CHIRIQUI GRANDE (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "MIRAMAR"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "PUNTA PEÑA"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "PUNTA ROBALO"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "RAMBALA"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "BAJO DEL CEDRO"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "ALMIRANTE (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BARRIADA GUAYMI"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "BARRIO FRANCES"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "NANCE DE RISCO"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "VALLE DE AGUAS ARRIBA"
+  },
+  {
+    "IGTIPFEProvincia": 1,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "VALLE DE RISCO"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "AGUADULCE (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "EL CRISTO"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "EL ROBLE"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "POCRI"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "BARRIOS UNIDOS"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "ANTON (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "CABUYA"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "EL CHIRU"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "EL RETIRO"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "EL VALLE"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "JUAN DIAZ"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "RIO HATO"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "SAN JUAN DE DIOS"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "SANTA RITA"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "CABALLERO"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "LA PINTADA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "EL HARINO"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "EL POTRERO"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "LLANO GRANDE"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "PIEDRAS GORDAS"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "LAS LOMAS"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "NATA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "CAPELLANIA"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "EL CAÑO"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "GUZMAN"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "LAS HUACAS"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "TOZA"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "OLA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "EL COPE"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "EL PALMAR"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "EL PICACHO"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "LA PAVA"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "PENONOME (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "CAÑAVERAL"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "COCLE"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "CHIGUIRI ARRIBA"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "EL COCO"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "PAJONAL"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "RIO GRANDE"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "RIO INDIO"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "TOABRE"
+  },
+  {
+    "IGTIPFEProvincia": 2,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "TULU"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "BARRIO NORTE"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BARRIO SUR"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "BUENA VISTA"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "CATIVA"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "CIRICITO"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "CRISTOBAL"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "ESCOBAL"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "LIMON"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "NUEVA PROVIDENCIA"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "PUERTO PILON"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 11,
+    "Descripcion": "SABANITAS"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 12,
+    "Descripcion": "SALAMANCA"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 13,
+    "Descripcion": "SAN JUAN"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 14,
+    "Descripcion": "SANTA ROSA"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 15,
+    "Descripcion": "CRISTOBAL ESTE"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "NUEVO CHAGRES (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "ACHIOTE"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "EL GUABO"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "LA ENCANTADA"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "PALMAS BELLAS"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "PIÑA"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "SALUD"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "MIGUEL DE LA BORDA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "COCLE DEL NORTE"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "EL GUASIMO"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "GOBEA"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "RIO INDIO"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "SAN JOSE DEL GENERAL"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "PORTOBELO (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "CACIQUE"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "GARROTE"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "ISLA GRANDE"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "MARIA CHIQUITA"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "PALENQUE (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "CUANGO"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "MIRAMAR"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "NOMBRE DE DIOS"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "PALMIRA"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "PLAYA CHIQUITA"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "SANTA ISABEL"
+  },
+  {
+    "IGTIPFEProvincia": 3,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "VIENTO FRIO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "ALANJE (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "DIVALA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "EL TEJAR"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "GUARUMAL"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "PALO GRANDE"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "QUEREVALO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "SANTO TOMAS"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "CANTA GALLO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "NUEVO MEXICO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "PUERTO ARMUELLES (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "LIMONES"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "PROGRESO BACO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "RODOLFO AGUILAR DELGADO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "BOQUERON (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BAGALA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "CORDILLERA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "GUABAL"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "GUAYABAL"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "PARAISO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "PEDREGAL"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "TIJERAS"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "BAJO BOQUETE (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "CALDERA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "PALMIRA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "ALTO BOQUETE"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "JARAMILLO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "LOS NARANJOS"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "LA CONCEPCION (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "ASERRIO DE GARICHE"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "BUGABA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "CERRO PUNTA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "GOMEZ"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "LA ESTRELLA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "SAN ANDRES"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "SANTA MARTA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "SANTA ROSA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "SANTO DOMINGO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 11,
+    "Descripcion": "SORTOVA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 12,
+    "Descripcion": "VOLCAN"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 13,
+    "Descripcion": "EL BONGO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "DAVID (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BIJAGUAL"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "COCHEA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "CHIRIQUI"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "GUACA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "LAS LOMAS"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "PEDREGAL"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "SAN CARLOS"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "SAN PABLO NUEVO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "SAN PABLO VIEJO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "DOLEGA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "DOS RIOS"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "LOS ANASTACIOS"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "POTRERILLOS"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "POTRERILLOS ABAJO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "ROVIRA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "TINAJAS"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "LOS ALGARROBOS"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "GUALACA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "HORNITO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "LOS ANGELES"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "PAJA DE SOMBRERO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "RINCON"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 9,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "REMEDIOS (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 9,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "EL NANCITO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 9,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "EL PORVENIR"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 9,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "EL PUERTO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 9,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "SANTA LUCIA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "RIO SERENO (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BREÑON"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "CAÑAS GORDAS"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "MONTE LIRIO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "PLAZA CAISAN"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "SANTA CRUZ"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "DOMINICAL"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "SANTA CLARA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 11,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "LAS LAJAS (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 11,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "JUAY"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 11,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "LAJAS ADENTRO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 11,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "SAN FELIX"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 11,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "SANTA CRUZ"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 12,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "HORCONCITOS (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 12,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BOCA CHICA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 12,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "BOCA DEL MONTE"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 12,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "SAN JUAN"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 12,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "SAN LORENZO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 13,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "TOLE (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 13,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BELLA VISTA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 13,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "CERRO VIEJO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 13,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "EL CRISTO"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 13,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "JUSTO FIDEL PALACIOS"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 13,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "LAJAS DE TOLE"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 13,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "POTRERO DE CAÑA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 13,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "QUEBRADA DE PIEDRA"
+  },
+  {
+    "IGTIPFEProvincia": 4,
+    "IGTIPFEDistrito": 13,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "VELADERO"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "LA PALMA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "CAMOGANTI"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "CHEPIGANA"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "GARACHINE"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "JAQUE"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "PUERTO PIÑA"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "RIO CONGO"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "RIO IGLESIAS"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "SAMBU"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "SETEGANTI"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 11,
+    "Descripcion": "TAIMATI"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 12,
+    "Descripcion": "TUCUTI"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 13,
+    "Descripcion": "AGUA FRIA"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 14,
+    "Descripcion": "CUCUNATI"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 15,
+    "Descripcion": "RIO CONGO ARRIBA"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 16,
+    "Descripcion": "SANTA FE"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "EL REAL DE SANTA MARIA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BOCA DE CUPE"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "PAYA"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "PINOGANA"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "PUCURO"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "YAPE"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "YAVIZA"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "METETI"
+  },
+  {
+    "IGTIPFEProvincia": 5,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "COMARCA KUNA DE WARGANDI"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "CHITRE (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "LA ARENA"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "MONAGRILLO"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "LLANO BONITO"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "SAN JUAN BAUTISTA"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "LAS MINAS (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "CHEPO"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "CHUMICAL"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "EL TORO"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "LEONES"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "QUEBRADA DEL ROSARIO"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "QUEBRADA EL CIPRIAN"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "LOS POZOS (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "CAPURI"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "EL CALABACITO"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "EL CEDRO"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "LA ARENA"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "LA PITALOSA"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "LOS CERRITOS"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "LOS CERROS DE PAJA"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "LAS LLANAS"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "OCU (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "CERRO LARGO"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "LOS LLANOS"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "LLANO GRANDE"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "PEÑAS CHATAS"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "EL TIJERA"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "MENCHACA"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "PARITA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "CABUYA"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "LOS CASTILLOS"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "LLANO DE LA CRUZ"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "PARIS"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "PORTOBELILLO"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "POTUGA"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "PESE (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "LAS CABRAS"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "EL PAJARO"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "EL BARRERO"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "EL PEDREGOSO"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "EL CIRUELO"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "SABANA GRANDE"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "RINCON HONDO"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "SANTA MARIA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "CHUPAMPA"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "EL RINCON"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "EL LIMON"
+  },
+  {
+    "IGTIPFEProvincia": 6,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "LOS CANELOS"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "GUARARE (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "EL ESPINAL"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "EL MACANO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "GUARARE ARRIBA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "LA ENEA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "LA PASERA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "LAS TRANCAS"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "LLANO ABAJO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "EL HATO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "PERALES"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "LAS TABLAS (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BAJO CORRAL"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "BAYANO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "EL CARATE"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "EL COCAL"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "EL MANANTIAL"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "EL MUÑOZ"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "EL PEDREGOSO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "LA LAJA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "LA MIEL"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 11,
+    "Descripcion": "LA PALMA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 12,
+    "Descripcion": "LA TIZA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 13,
+    "Descripcion": "LAS PALMITAS"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 14,
+    "Descripcion": "LAS TABLAS ABAJO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 15,
+    "Descripcion": "NUARIO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 16,
+    "Descripcion": "PALMIRA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 17,
+    "Descripcion": "PEÑA BLANCA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 18,
+    "Descripcion": "RIO HONDO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 19,
+    "Descripcion": "SAN JOSE"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 20,
+    "Descripcion": "SAN MIGUEL"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 21,
+    "Descripcion": "SANTO DOMINGO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 22,
+    "Descripcion": "SESTEADERO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 23,
+    "Descripcion": "VALLE RICO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 24,
+    "Descripcion": "VALLERIQUITO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "LA VILLA DE LOS SANTOS (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "EL GUASIMO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "LA COLORADA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "LA ESPIGADILLA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "LAS CRUCES"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "LAS GUABAS"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "LOS ANGELES"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "LOS OLIVOS"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "LLANO LARGO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "SABANA GRANDE"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 11,
+    "Descripcion": "SANTA ANA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 12,
+    "Descripcion": "TRES QUEBRADAS"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 13,
+    "Descripcion": "AGUA BUENA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 14,
+    "Descripcion": "VILLA LOURDES"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "MACARACAS (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BAHIA HONDA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "BAJOS DE GUERA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "COROZAL"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "CHUPA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "EL CEDRO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "ESPINO AMARILLO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "LA MESA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "LAS PALMAS"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "LLANO DE PIEDRA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 11,
+    "Descripcion": "MOGOLLON"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "PEDASI (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "LOS ASIENTOS"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "MARIABE"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "PURIO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "ORIA ARRIBA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "POCRI"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "EL CAÑAFISTULO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "LAJAMINA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "PARAISO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "PARITILLA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "TONOSI (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "ALTOS DE GUERA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "CAÑAS"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "EL BEBEDERO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "EL CACAO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "EL CORTEZO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "FLORES"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "GUANICO"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "LA TRONOSA"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "CAMBUTAL"
+  },
+  {
+    "IGTIPFEProvincia": 7,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 11,
+    "Descripcion": "ISLA DE CAQAS"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "SAN MIGUEL (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "LA ENSENADA"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "LA ESMERALDA"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "LA GUINEA"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "PEDRO GONZALEZ"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "SABOGA"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "CHEPO (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "CAÑITA"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "CHEPILLO"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "EL LLANO"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "LAS MARGARITAS"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "SANTA CRUZ DE CHININA"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "COMARCA KUNA DE MADUNGANDI"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "TORTI"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "CHIMAN (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BRUJAS"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "GONZALO VASQUEZ"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "PASIGA"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "UNION SANTEÑA"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "SAN FELIPE"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "EL CHORRILLO"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "SANTA ANA"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "LA EXPOSICION O CALIDONIA"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "CURUNDU"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "BETANIA"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "BELLA VISTA"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "PUEBLO NUEVO"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "SAN FRANCISCO"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "PARQUE LEFEVRE"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 11,
+    "Descripcion": "RIO ABAJO"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 12,
+    "Descripcion": "JUAN DIAZ"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 13,
+    "Descripcion": "PEDREGAL"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 14,
+    "Descripcion": "ANCON"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 15,
+    "Descripcion": "CHILIBRE"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 16,
+    "Descripcion": "LAS CUMBRES"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 17,
+    "Descripcion": "PACORA"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 18,
+    "Descripcion": "SAN MARTIN"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 19,
+    "Descripcion": "TOCUMEN"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 20,
+    "Descripcion": "LAS MAÑANITAS"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 21,
+    "Descripcion": "24 DE DICIEMBRE"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 22,
+    "Descripcion": "ERNESTO CORDOBA CAMPOS"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 23,
+    "Descripcion": "ALCALDE DIAZ"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 24,
+    "Descripcion": "CAIMITILLO"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 25,
+    "Descripcion": "DON BOSCO"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 26,
+    "Descripcion": "LAS GARZAS"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "AMELIA DENIS DE ICAZA"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BELISARIO PORRAS"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "JOSE DOMINGO ESPINAR"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "MATEO ITURRALDE"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "VICTORIANO LORENZO"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "ARNULFO ARIAS"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "BELISARIO FRIAS"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "OMAR TORRIJOS"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "RUFINA ALFARO"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 11,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "TABOGA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 11,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "OTOQUE ORIENTE"
+  },
+  {
+    "IGTIPFEProvincia": 8,
+    "IGTIPFEDistrito": 11,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "OTOQUE OCCIDENTE"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "ATALAYA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "EL BARRITO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "LA MONTAÑUELA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "LA CARRILLO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "SAN ANTONIO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "CALOBRE (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BARNIZAL"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "CHITRA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "EL COCLA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "EL POTRERO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "LA LAGUNA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "LA RAYA DE CALOBRE"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "LA TETILLA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "LA YEGUADA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "LAS GUIAS"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 11,
+    "Descripcion": "MONJARAS"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 12,
+    "Descripcion": "SAN JOSE"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "CAÑAZAS (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "CERRO PLATA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "EL PICADOR"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "LOS VALLES"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "SAN JOSE"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "SAN MARCELO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "EL AROMILLO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "LAS CRUCES"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "LA MESA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BISVALLES"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "BORO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "LLANO GRANDE"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "SAN BARTOLO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "LOS MILAGROS"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "LAS PALMAS (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "CERRO DE CASA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "COROZAL"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "EL MARIA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "EL PRADO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "EL RINCON"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "LOLA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "PIXVAE"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "PUERTO VIDAL"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "SAN MARTIN DE PORRES"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 11,
+    "Descripcion": "VIGUI"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 12,
+    "Descripcion": "ZAPOTILLO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 13,
+    "Descripcion": "ALTAMIRA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "MONTIJO (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "ARENAS"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "GOBERNADORA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "LA GARCEANA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "LEONES"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "CEBACO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "COSTA HERMOSA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "UNION DEL NORTE"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "TEBARIO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "EL PILON"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "RIO DE JESUS (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "LAS HUACAS"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "LOS CASTILLOS"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "UTIRA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "CATORCE DE NOVIEMBRE"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "SAN FRANCISCO (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "CORRAL FALSO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "LOS HATILLOS"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "REMANCE"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "SAN JUAN"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "SAN JOSE"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 9,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "SANTA FE (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 9,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "CALOVEBORA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 9,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "EL ALTO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 9,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "EL CUAY"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 9,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "EL PANTANO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 9,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "GATU O GATUCITO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 9,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "RIO LUIS"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "SANTIAGO (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "LA COLORADA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "LA PEÑA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "LA RAYA DE SANTA MARIA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "PONUGA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "SAN PEDRO DEL ESPINO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "CANTO DEL LLANO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "LOS ALGARROBOS"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "CARLOS SANTANA AVILA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "EDWIN FABREGA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 11,
+    "Descripcion": "SAN MARTIN DE PORRES"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 10,
+    "IGTIPFECorregimientos": 12,
+    "Descripcion": "URRACA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 11,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "SONA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 11,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BAHIA HONDA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 11,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "CALIDONIA"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 11,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "CATIVE"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 11,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "EL MARAÑON"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 11,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "GUARUMAL"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 11,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "LA SOLEDAD"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 11,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "QUEBRADA DE ORO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 11,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "RIO GRANDE"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 11,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "RODEO VIEJO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 12,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "LLANO DE CATIVAL O MARIATO (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 12,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "ARENAS"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 12,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "EL CACAO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 12,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "QUEBRO"
+  },
+  {
+    "IGTIPFEProvincia": 9,
+    "IGTIPFEDistrito": 12,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "TEBARIO"
+  },
+  {
+    "IGTIPFEProvincia": 10,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "NARGANA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 10,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "AILIGANDI"
+  },
+  {
+    "IGTIPFEProvincia": 10,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "PUERTO OBALDIA"
+  },
+  {
+    "IGTIPFEProvincia": 10,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "TUBUALA"
+  },
+  {
+    "IGTIPFEProvincia": 11,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "CIRILO GUAINORA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 11,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "LAJAS BLANCAS"
+  },
+  {
+    "IGTIPFEProvincia": 11,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "MANUEL ORTEGA"
+  },
+  {
+    "IGTIPFEProvincia": 11,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "RIO SABALO"
+  },
+  {
+    "IGTIPFEProvincia": 11,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "JINGURUDO"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "SOLOY (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BOCA DE BALSA"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "CAMARON ARRIBA"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "CERRO BANCO"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "CERRO DE PATENA"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "EMPLANADA DE CHORCHA"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "NAMNONI"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "NIBA"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "HATO PILON (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "CASCABEL"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "HATO COROTU"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "HATO CULANTRO"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "HATO JOBO"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "HATO JULI"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "QUEBRADA DE LORO"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "SALTO DUPI"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "CHICHICA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "ALTO CABALLERO"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "BAKAMA"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "CERRO CAÑA"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "CERRO PUERCO"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "KRUA"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "MARACA"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "NIBRA"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "PEÑA BLANCA"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "ROKA"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 11,
+    "Descripcion": "SITIO PRADO"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 12,
+    "Descripcion": "UMANI CERRO IGLESIAS"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "(CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "HATO CHAMI"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "JADEBERI"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "LAJERO"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "SUSAMA"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "BUENOS AIRES (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "AGUA DE SALUD"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "ALTO DE JESUS"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "CERRO PELADO"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "EL BALE"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "EL PAREDON"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "EL PIRO"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "GUAYABITO"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "GUIBALE"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "BISIRA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BURI"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "GUARIVIARA"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "GUORONI"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "KANKINTU"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "MUNUNI"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "PIEDRA ROJA"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "TUWAI"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 6,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "MAN CREEK"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "KUSAPIN (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BAHIA AZUL"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "CALOVEBORA O SANTA CATALINA"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "LOMA YUCA"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "RIO CHIRIQUI"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "TOBOBE"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 7,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "VALLE BONITO"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "SAMBOA"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BURI"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "GUARIVIARA"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "MAN CREEK"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 8,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "TUWAI SANTA CATALINA O"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 9,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "CALOVEBORA (BLEDESHIA)(CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 9,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "ALTO BILINGUE (GDOGUESHIA)"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 9,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "LOMA YUKA (LJUICHO)"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 9,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "SAN PEDRITO"
+  },
+  {
+    "IGTIPFEProvincia": 12,
+    "IGTIPFEDistrito": 9,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "VALLE BONITO(DOGATA)"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "ARRAIJAN (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BURUNGA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "CERRO SILVESTRE"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "JUAN DEMOSTENES AROSEMENA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "NUEVO EMPERADOR"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "SANTA CLARA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "VERACRUZ"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 1,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "VISTA ALEGRE"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "CAPIRA (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "CAIMITO"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "CAMPANA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "CERMEÑO"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "CIRI DE LOS SOTOS"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "CIRI GRANDE"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "EL CACAO"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "LA TRINIDAD"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "LAS OLLAS ARRIBA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "LIDICE"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 11,
+    "Descripcion": "VILLA CARMEN"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 12,
+    "Descripcion": "VILLA ROSARIO"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 2,
+    "IGTIPFECorregimientos": 13,
+    "Descripcion": "SANTA ROSA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "CHAME (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BEJUCO"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "BUENOS AIRES"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "CABUYA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "CHICA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "EL LIBANO"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "LAS LAJAS"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "NUEVA GORGONA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "PUNTA CHAME"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "SAJALICES"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 3,
+    "IGTIPFECorregimientos": 11,
+    "Descripcion": "SORA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "BARRIO BALBOA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "BARRIO COLON"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "AMADOR"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "AROSEMENA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "EL ARADO"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "EL COCO"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "FEUILLET"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "GUADALUPE"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "HERRERA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 10,
+    "Descripcion": "HURTADO"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 11,
+    "Descripcion": "ITURRALDE"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 12,
+    "Descripcion": "LA REPRESA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 13,
+    "Descripcion": "LOS DIAZ"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 14,
+    "Descripcion": "MENDOZA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 15,
+    "Descripcion": "OBALDIA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 16,
+    "Descripcion": "PLAYA LEONA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 17,
+    "Descripcion": "PUERTO CAIMITO"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 4,
+    "IGTIPFECorregimientos": 18,
+    "Descripcion": "SANTA RITA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 1,
+    "Descripcion": "SAN CARLOS (CABECERA)"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 2,
+    "Descripcion": "EL ESPINO"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 3,
+    "Descripcion": "EL HIGO"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 4,
+    "Descripcion": "GUAYABITO"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 5,
+    "Descripcion": "LA ERMITA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 6,
+    "Descripcion": "LA LAGUNA"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 7,
+    "Descripcion": "LAS UVAS"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 8,
+    "Descripcion": "LOS LLANITOS"
+  },
+  {
+    "IGTIPFEProvincia": 13,
+    "IGTIPFEDistrito": 5,
+    "IGTIPFECorregimientos": 9,
+    "Descripcion": "SAN JOSE"
+  }
+]
